@@ -1,0 +1,52 @@
+Imports System.Net
+Imports System.IO
+Public Class DBCatering
+
+    Private Sub DBCatering_FormClosing(sender As Object, e As FormClosingEventArgs) Handles Me.FormClosing
+        Dim mensaje As String
+        mensaje = MsgBox("¿Deseas cerrar la aplicación?", vbYesNo, "Cerrar")
+        If mensaje = vbYes Then
+
+            e.Cancel = False
+        Else
+            e.Cancel = True
+        End If
+    End Sub
+    Private Sub DBCatering_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        'TODO: esta línea de código carga datos en la tabla 'PrivadoDataSet1.Imagen' Puede moverla o quitarla según sea necesario.
+        Me.ImagenTableAdapter.Fill(Me.PrivadoDataSet1.Imagen)
+        'TODO: esta línea de código carga datos en la tabla 'PrivadoDataSet1.Datos_empresa' Puede moverla o quitarla según sea necesario.
+        Me.Datos_empresaTableAdapter.Fill(Me.PrivadoDataSet1.Datos_empresa)
+        'TODO: esta línea de código carga datos en la tabla 'PrivadoDataSet.Imagen' Puede moverla o quitarla según sea necesario.
+        'TODO: esta línea de código carga datos en la tabla 'PrivadoDataSet.Datos_empresa' Puede moverla o quitarla según sea necesario.
+        'TODO: esta línea de código carga datos en la tabla 'PrivadoDataSet.Datos_empresa' Puede moverla o quitarla según sea necesario.
+        'TODO: esta línea de código carga datos en la tabla 'Db2013DataSet.Tabla1' Puede moverla o quitarla según sea necesario.
+        'TODO: esta línea de código carga datos en la tabla 'Db2013DataSet.Version_HUD' Puede moverla o quitarla según sea necesario.
+        Me.Version_HUDTableAdapter.Fill(Me.Db2013DataSet.Version_HUD)
+        'TODO: esta línea de código carga datos en la tabla 'Db2013DataSet.Version_base_de_datos' Puede moverla o quitarla según sea necesario.
+        Me.Version_base_de_datosTableAdapter.Fill(Me.Db2013DataSet.Version_base_de_datos)
+        'TODO: esta línea de código carga datos en la tabla 'Db2013DataSet.Version_base_de_datos' Puede moverla o quitarla según sea necesario.
+        Me.Version_base_de_datosTableAdapter.Fill(Me.Db2013DataSet.Version_base_de_datos)
+        'TODO: esta línea de código carga datos en la tabla 'Db2013DataSet.Version_base_de_datos' Puede moverla o quitarla según sea necesario.
+        Me.Version_base_de_datosTableAdapter.Fill(Me.Db2013DataSet.Version_base_de_datos)
+        'TODO: esta línea de código carga datos en la tabla 'Db2013DataSet.Version_HUD' Puede moverla o quitarla según sea necesario.
+        Me.Version_HUDTableAdapter.Fill(Me.Db2013DataSet.Version_HUD)
+    End Sub
+    Private Sub ActualizadorToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ActualizadorToolStripMenuItem.Click
+        Shell("C:\Program Files\Hud\hud.exe", AppWinStyle.NormalFocus)
+    End Sub
+
+    Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+        ToolStripMenuItem1.Text = DateAndTime.Now.ToLongTimeString
+        FechaToolStripMenuItem.Text = DateAndTime.Now.ToLongDateString
+    End Sub
+
+    Private Sub LoNewToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles LoNewToolStripMenuItem.Click
+        Lo_new.Show()
+    End Sub
+
+    Private Sub ConsultaPreciosDeTusProveedoresToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ConsultaPreciosDeTusProveedoresToolStripMenuItem.Click
+        Form1.Show()
+
+    End Sub
+End Class
