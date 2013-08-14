@@ -4,7 +4,6 @@
                   
                  - Actualizados los accesos directos a las bases de datos de la nube 
                  de DB Catering desde HUB.
-                 
                 _______________________________________
                  
                   13/08/2013 
