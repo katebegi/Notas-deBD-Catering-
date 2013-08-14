@@ -1,6 +1,12 @@
                                              Últimas actualizaciones de DB Catering
                                          ==============================================
- 
+                  14/08/2013
+                  
+                 - Actualizados los accesos directos a las bases de datos de la nube 
+                 de DB Catering desde HUB.
+                 
+                _______________________________________
+                 
                   13/08/2013 
  
                   - Colocado base de datos funcional, en sin alcohol, cerveza y vino.
