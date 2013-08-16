@@ -4,9 +4,9 @@
                   
                   16/08/2013
                   
-                 - Insertado processbar en HUD
-                 - Creada pestaña de "Primera vez" para configuración de DB Catering.
-                 - Creado dos datos más en la base de datos: el de "caducada oferta" y "sin fecha de caducidad"
+                 - (EN PROCESO...)Insertado processbar en HUD)
+                 - (EN PROCESO...)Creada pestaña de "Primera vez" para configuración de DB Catering.
+                 - (EN PROCESO...)Creado dos datos más en la base de datos: el de "caducada oferta" y "sin fecha de caducidad"
                 _______________________________________
                   
                   14/08/2013
