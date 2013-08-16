@@ -1,5 +1,13 @@
                                              Últimas actualizaciones de DB Catering
                                          ==============================================
+                  
+                  
+                  16/08/2013
+                  
+                 - Insertado processbar en HUD
+                 - Creada pestaña de "Primera vez" para configuración de DB Catering. 
+                _______________________________________
+                  
                   14/08/2013
                   
                  - Actualizados los accesos directos a las bases de datos de la nube 
