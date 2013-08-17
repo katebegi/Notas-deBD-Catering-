@@ -2,14 +2,15 @@
                                          ==============================================
                   
                   17/08/2013
-                  
+                 
+                 - Versión final de HUD 
                  - Insertado Imagenes en base de datos
                  - VACACIONES a Hendaya, Francia
                 _______________________________________
                   
                   16/08/2013
                   
-                 - (EN PROCESO...)Creada pestaña de "Primera vez" para configuración de DB Catering.
+                 - Creada pestaña de "Primera vez" para configuración de DB Catering.
                  - (EN PROCESO...)Creado dos datos más en la base de datos: el de "caducada oferta" y "sin fecha de caducidad"
                 _______________________________________
                   
