@@ -1,6 +1,11 @@
                                              Últimas actualizaciones de DB Catering
                                          ==============================================
-                  
+                  23/08/2013
+                 
+                 - Insertado cargador con los procesos aparte. 
+                 - Agregado sistema password para modificar programa y base de datos de HUD.
+                _______________________________________
+                    
                   17/08/2013
                  
                  - Versión final de HUD 
