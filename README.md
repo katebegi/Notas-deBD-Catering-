@@ -5,7 +5,7 @@
                  
                  - Intergrado HUD con DB Catering, ya no existe dos *.exe .
                  - Insertado borrado de las bases de datos del programa.
-                 - Modificado base de datos para que el cliente no entre con nombre de usuario y contraseña.
+                 - Modificado base de datos para que el cliente no entre. Solo con nombre de usuario y contraseña.
                  - Administracion del programa "disfrazado" desde cargador en dos salidas.
                 _______________________________________
                 
