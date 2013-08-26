@@ -1,7 +1,7 @@
                                              Últimas actualizaciones de DB Catering
                                          ==============================================
                  
-                  23/08/2013
+                  26/08/2013
                  
                  - Intergrado HUD con DB Catering.
                  - Insertado borrado de las bases de datos del programa.
