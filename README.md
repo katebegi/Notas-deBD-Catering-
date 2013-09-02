@@ -1,6 +1,16 @@
                                              Últimas actualizaciones de DB Catering
                                          ==============================================
                  
+                   03/09/2013
+                 
+                 - Modificado inicio. 
+                 - Arreglados accesos a HUD.
+                 - Insertado para modificar bases de datos (privado y de DB Catering).
+                 - Insertado botón de datos personales.
+                 - Modificado formularo de administración para un buen ver.
+                 - Agregada calculadora original de windows
+                _______________________________________
+                    
                   26/08/2013
                  
                  - Intergrado HUD con DB Catering, ya no existe dos *.exe .
