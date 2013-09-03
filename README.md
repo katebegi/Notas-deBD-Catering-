@@ -8,7 +8,7 @@
                  - Insertado para modificar bases de datos (privado y de DB Catering).
                  - Insertado botón de datos personales.
                  - Modificado formularo de administración para un buen ver.
-                 - Agregada calculadora original de windows
+                 - Agregada nuevas bases de datos en la nube
                 _______________________________________
                     
                   26/08/2013
