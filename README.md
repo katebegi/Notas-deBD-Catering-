@@ -1,7 +1,15 @@
                                              Últimas actualizaciones de DB Catering
                                          ==============================================
                  
-                   03/09/2013
+                  
+                  
+                                   
+                  14/10/2013
+                 
+                 - Welcome versión nata
+                _______________________________________ 
+                 
+                  03/09/2013
                  
                  - Modificado inicio. 
                  - Arreglados accesos a HUD.
